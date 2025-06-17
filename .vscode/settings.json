@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "ADSsemMaven/src"
+    ],
+    "java.project.referencedLibraries": [
+        "/home/max/Downloads/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar",
+        "/home/max/Downloads/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar"
+    ]
+}
